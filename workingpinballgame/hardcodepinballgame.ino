@@ -3,13 +3,8 @@
  * 12/13/2016
  */
 
-// #include <Wire.h> // Enable this line if using Arduino Uno, Mega, etc.
-// #include <Adafruit_GFX.h>
-// #include <Adafruit_LEDBackpack.h>
 #include <Bounce2.h>
 #include "pitch.h"
-//#define BOUNCE_LOCK_OUT
-//#include "state_machine_headers2.h"
 
 /* ******************
  *  OUTPUT PIN DEFINES
